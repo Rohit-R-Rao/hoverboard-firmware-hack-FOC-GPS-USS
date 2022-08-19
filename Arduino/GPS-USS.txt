@@ -1,0 +1,4 @@
+The Arduino file in this directory, is used to send USART communications to the hoverboard.
+Using the example test code that was given in Emanuel Feru's Original Repository, I added code that would allow the robot to arrive at certain geo-coordinates.
+This is done using a NEO-6M GPS module and the HC-SR04 ultrasonic sensors.
+Original Repo Found Here: https://github.com/EFeru/hoverboard-firmware-hack-FOC.git
